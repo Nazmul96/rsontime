@@ -1,0 +1,16 @@
+#accordion .card{ 
+  overflow: hidden;
+}
+#accordion .card-header{
+    background-color: #ffffff;
+    border-bottom:1px solid #f1f5f7;
+}
+#custom_theme{
+  display: none;
+}
+.sp-original-input-container .sp-add-on{
+  width: 40px !important;
+}
+.show_bg_color{
+  display:none;
+}
